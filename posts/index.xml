@@ -25,5 +25,14 @@
       <description>Hello world </description>
     </item>
     
+    <item>
+      <title></title>
+      <link>http://example.org/posts/test/third/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/test/third/</guid>
+      <description>Try for images </description>
+    </item>
+    
   </channel>
 </rss>
